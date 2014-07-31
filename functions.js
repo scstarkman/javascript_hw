@@ -6,6 +6,8 @@ divideMe(45,5);
 9
 
 //function 2: function to add an element to an array.
+var colors = ['blue', 'orange','pink','green']
+
 function addToArray(x){
   return colors.push(x);
 }
@@ -27,4 +29,6 @@ function greatMeal(a,b,c){
 }
 
 greatMeal('pasta with italian sausages,',' anything chocolate,',' chardonnay');
+console.log(greatMeal)
+
 "pasta with italian sausages, anything chocolate, chardonnay"

@@ -1,4 +1,4 @@
-//Object 1: Setting up an object for sale items with three properties.
+//Object 1: Setting up an object for sale with three properties.
 var forSale = {
   title:"slightly used bike for sale.",
   price: 50,
